@@ -5,16 +5,16 @@ I've recently created an engaging Java program for a Number Guessing Game. This 
 
 📊 Key Features:
 
-Random number generation
-User input handling with real-time feedback
-Count of attempts displayed upon guessing correctly
-Console-based interface for easy interaction
+*Random number generation
+*User input handling with real-time feedback
+*Count of attempts displayed upon guessing correctly
+*Console-based interface for easy interaction
 
 🔧 Technical Skills Showcased:
 
-Java Programming
-Efficient user input handling
-Implementation of loops and conditionals for game mechanics
-Design of a user-friendly console interface
-A huge thank you to Prodigy InfoTech for the support!
+*Java Programming
+*Efficient user input handling
+*Implementation of loops and conditionals for game mechanics
+*Design of a user-friendly console interface
+*A huge thank you to Prodigy InfoTech for the support!
 hashtag#JavaProgramming hashtag#GuessingGame hashtag#CodingProjects hashtag#LearningJava hashtag#InteractiveGames hashtag#ProgrammingBasics hashtag#SoftwareDevelopment hashtag#ProdigyInfoTech
